@@ -1784,11 +1784,6 @@ ts-interface-checker@^0.1.9:
   resolved "https://registry.yarnpkg.com/ts-interface-checker/-/ts-interface-checker-0.1.13.tgz#784fd3d679722bc103b1b4b8030bcddb5db2a699"
   integrity sha512-Y/arvbn+rrz3JCKl9C4kVNfTfSm2/mEp5FSz5EsZSANGPSlQrpRI5M4PKF+mJnE52jOO90PnPSc3Ur3bTQw0gA==
 
-tslib@^2.0.3:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.3.1.tgz#e8a335add5ceae51aa261d32a490158ef042ef01"
-  integrity sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw==
-
 undici@^5.4.0:
   version "5.22.0"
   resolved "https://registry.yarnpkg.com/undici/-/undici-5.22.0.tgz#5e205d82a5aecc003fc4388ccd3d2c6e8674a0ad"
@@ -1811,12 +1806,10 @@ update-browserslist-db@^1.0.11:
     escalade "^3.1.1"
     picocolors "^1.0.0"
 
-upper-case-first@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/upper-case-first/-/upper-case-first-2.0.2.tgz#992c3273f882abd19d1e02894cc147117f844324"
-  integrity sha512-514ppYHBaKwfJRK/pNC6c/OxfGa0obSnAl106u97Ed0I625Nin96KAjttZF6ZL3e1XLtphxnqrOi9iWgm+u+bg==
-  dependencies:
-    tslib "^2.0.3"
+upper-case-first@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/upper-case-first/-/upper-case-first-3.0.0.tgz#7ca852330000e31221bcb6f95d36c1111dbe99f7"
+  integrity sha512-YCgaS8dIParorDq1chrJBoFwQhnTW2/MaL3+cVyFjatwDUQIdlzoMneSearU9YAvc4bBtjgMyGtdkWUYvuN25Q==
 
 util-deprecate@^1.0.2:
   version "1.0.2"
